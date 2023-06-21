@@ -97,8 +97,8 @@ ul{
     font-weight: 700;
     color: white;
     width: 320px;
-    height: 50px;
-    padding: 10px 15px;
+    height: 60px;
+    padding: 10px 15px 2px 15px;
 }
 .about__card-text{
     max-width: 320px;
@@ -108,7 +108,7 @@ ul{
     font-size: 15px;
     font-weight: 400;
     color: white;
-    padding: 10px 15px;
+    padding: 2px 15px;
 }
 .about__text2{
     background-color:#6A1B9A;
@@ -117,7 +117,7 @@ ul{
 
 .about__card-img{
     width: 350px;
-    height: 175px;
+    height: 165px;
 }
 
 .about__center-title{
